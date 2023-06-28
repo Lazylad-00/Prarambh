@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77128166826",
+    "project_id": "flutterapptest-a456a",
+    "storage_bucket": "flutterapptest-a456a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77128166826:android:b0287f641ca5e17196cfd3",
+        "android_client_info": {
+          "package_name": "com.example.prarambh_demo_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77128166826-658m5ilbelbus7mc6bpnp95c6k9vs0fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFotxSaxxgWWtkb7dqbShED6TL9zZ8ufY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77128166826-658m5ilbelbus7mc6bpnp95c6k9vs0fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
